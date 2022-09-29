@@ -1,6 +1,7 @@
 package factory;
 
 import model.Engineer;
+import model.Profession;
 import model.Teacher;
 
 public class ProfessionFactory {

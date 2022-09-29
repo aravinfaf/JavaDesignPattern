@@ -1,5 +1,7 @@
 package factory;
 
+import model.Profession;
+
 public class Main {
 
     public static void main(String[] args) {

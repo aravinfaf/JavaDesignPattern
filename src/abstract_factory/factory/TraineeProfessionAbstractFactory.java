@@ -1,6 +1,8 @@
 package abstract_factory.factory;
 
-import abstract_factory.dependencies.*;
+import model.Profession;
+import model.TraineeEngineer;
+import model.TraineeTeacher;
 
 public class TraineeProfessionAbstractFactory extends AbstractFactory{
 

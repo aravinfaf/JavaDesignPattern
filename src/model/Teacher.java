@@ -1,6 +1,5 @@
 package model;
 
-import factory.Profession;
 
 public class Teacher implements Profession {
     @Override

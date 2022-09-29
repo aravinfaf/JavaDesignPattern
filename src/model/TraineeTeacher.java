@@ -1,4 +1,4 @@
-package abstract_factory.dependencies;
+package model;
 
 public class TraineeTeacher implements Profession{
     @Override
